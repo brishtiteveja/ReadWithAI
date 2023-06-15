@@ -1,0 +1,11 @@
+# environment
+.env
+
+# vector db
+.chroma
+
+# python env
+langchain
+
+# tmp dir
+./docs/tmp
